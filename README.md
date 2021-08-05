@@ -15,9 +15,9 @@
 
 <br />
 
-- 🔭 I’m currently working on Multi-objective vehicle route optimisation.
-- 🌱 I’m currently learning flutter
-- 💬 Ask me about **Data Science, NLP or DSA**
+- 🔭 I’m currently working on Optimising the SupplyChain System of Udaan 
+- 🌱 I’m currently learning Distributed MicroStervices
+- 💬 Ask me about ** OOPS, Low Level Design, Kotlin, React, Data Science, NLP or DSA**
 - 📫 How to reach me: [Mail](mailto:minocharaman@gmail.com), [LinkedIn](https://www.linkedin.com/in/ramanmanocha/).
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am a Geologist too.
