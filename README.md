@@ -4,9 +4,6 @@
 
 <br/>
 </a>
-<a href="https://www.linkedin.com/in/ramanmanocha/">
-  <img align="left" alt="Raman's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 <a href="https://leetcode.com/minocharaman/">
   <img align="left" alt="Raman's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
